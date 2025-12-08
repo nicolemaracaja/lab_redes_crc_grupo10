@@ -29,7 +29,7 @@ O desenvolvimento foi dividido em três etapas principais:
   - Testes de estresse para identificar as limitações do algoritmo.
   - Objetivo: Verificar a eficácia do CRC contra diferentes tipos de erros de transmissão.
   - Cenários:
-      Injeção de erros de rajada aleatórios.
-      Identificação de "Pontos Cegos" (colisões matemáticas onde erros propositais não são detectados).
+      - Injeção de erros de rajada aleatórios.
+      - Identificação de "Pontos Cegos" (colisões matemáticas onde erros propositais não são detectados).
 
 Projeto desenvolvido para a disciplina de Redes de Computadores - UFCG.
