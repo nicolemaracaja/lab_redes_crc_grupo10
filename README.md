@@ -9,10 +9,12 @@ Nicole Brito Maracajá (123111413)
 Heitor de Souza Alves (123110811)
 
 📖 Sobre o Projeto
+
 Este laboratório tem como objetivo explorar o funcionamento do CRC (Cyclic Redundancy Check), um dos mecanismos mais importantes para detecção de erros na camada de enlace. O projeto combina teoria matemática, implementação prática e análise de desempenho.
 O trabalho foi estruturado para demonstrar como a divisão polinomial binária garante a integridade dos dados transmitidos e quais são as diferenças práticas entre uma implementação didática e uma biblioteca de produção.
 
 🗂️ Estrutura do Laboratório
+
 O desenvolvimento foi dividido em três etapas principais:
 1. Implementação Manual
   - Desenvolvimento "do zero" do algoritmo de cálculo do CRC.
