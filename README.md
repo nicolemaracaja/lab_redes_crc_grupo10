@@ -3,10 +3,10 @@ Laboratório de Redes: Implementação e Análise de CRC
 Disciplina: Redes de Computadores - UFCG
 
 Grupo 10:
-Jefferson Ribeiro Brasil (123110470)
-Giulia Leticia de Mesquita Aragão (121210663)
-Nicole Brito Maracajá (123111413)
-Heitor de Souza Alves (123110811)
+- Jefferson Ribeiro Brasil (123110470)
+- Giulia Leticia de Mesquita Aragão (121210663)
+- Nicole Brito Maracajá (123111413)
+- Heitor de Souza Alves (123110811)
 
 📖 Sobre o Projeto
 
